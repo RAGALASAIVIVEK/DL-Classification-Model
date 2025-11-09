@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: NARRA AKHIL
+### Name: RAGALA SAI VIVEK
 
-### Register Number: 212223230136
+### Register Number: 212223230163
 
 ```
 import torch
@@ -168,24 +168,24 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 ### Dataset Information
 
-<img width="798" height="706" alt="image" src="https://github.com/user-attachments/assets/8c43608a-fd5c-40e8-a1ba-9b3627be09ba" />
+<img width="1593" height="721" alt="image" src="https://github.com/user-attachments/assets/bf1c1427-9985-4b6c-af33-25f1884f8227" />
 
 
 ### OUTPUT
 
 ## Confusion Matrix
 
-<img width="590" height="536" alt="image" src="https://github.com/user-attachments/assets/38d93639-ff38-4dc8-b407-9266ff5e0c7f" />
+<img width="1176" height="666" alt="image" src="https://github.com/user-attachments/assets/18fa3e1c-b741-4b7d-b706-62521ca427a0" />
 
 
 ## Classification Report
 
-<img width="656" height="218" alt="image" src="https://github.com/user-attachments/assets/5aec1a09-cc88-4268-8568-78187b04056b" />
+<img width="691" height="263" alt="image" src="https://github.com/user-attachments/assets/a1e52a30-1f21-4462-a88d-e5947e512d29" />
 
 
 ### New Sample Data Prediction
 
-<img width="512" height="42" alt="image" src="https://github.com/user-attachments/assets/a8536eba-a64f-45dd-8f7b-2d1807db7f9a" />
+<img width="671" height="187" alt="image" src="https://github.com/user-attachments/assets/98910f41-7e97-4da3-9762-0c8bb379b8ee" />
 
 
 ## RESULT
