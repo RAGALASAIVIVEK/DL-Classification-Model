@@ -1,4 +1,3 @@
-
 # Developing a Neural Network Classification Model
 
 ## AIM
@@ -38,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: RAGALA SAI VIVEK
+### Name: NARRA AKHIL
 
-### Register Number: 212223230163
+### Register Number: 212223230136
 
 ```
 import torch
@@ -169,24 +168,24 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 ### Dataset Information
 
-<img width="568" height="448" alt="image" src="https://github.com/user-attachments/assets/0611b74b-b536-494e-8560-016d48ca1022" />
+<img width="798" height="706" alt="image" src="https://github.com/user-attachments/assets/8c43608a-fd5c-40e8-a1ba-9b3627be09ba" />
 
 
 ### OUTPUT
 
 ## Confusion Matrix
 
-<img width="519" height="470" alt="image" src="https://github.com/user-attachments/assets/6a97f698-8e07-44fd-9b5c-b4efa8b80e06" />
+<img width="590" height="536" alt="image" src="https://github.com/user-attachments/assets/38d93639-ff38-4dc8-b407-9266ff5e0c7f" />
 
 
 ## Classification Report
 
-<img width="396" height="265" alt="image" src="https://github.com/user-attachments/assets/e4260ea6-9318-4ea7-b447-7a50c20e3d78" />
+<img width="656" height="218" alt="image" src="https://github.com/user-attachments/assets/5aec1a09-cc88-4268-8568-78187b04056b" />
 
 
 ### New Sample Data Prediction
 
-<img width="308" height="57" alt="image" src="https://github.com/user-attachments/assets/b0e69336-827e-429d-b436-87a224b8f509" />
+<img width="512" height="42" alt="image" src="https://github.com/user-attachments/assets/a8536eba-a64f-45dd-8f7b-2d1807db7f9a" />
 
 
 ## RESULT
